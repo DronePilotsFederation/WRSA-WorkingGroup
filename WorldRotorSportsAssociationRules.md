@@ -5,7 +5,7 @@ The World Rotor Sports Association (WRSA) rules are designed to establish univer
 
 Rotor sports are typically defined as competitions involving unmanned aerial vehicles (UAVs) with one or more rotors and first person view (FPV) camera systems, also known as drones.  
 
-These rules were created with the understanding that rotor sports are rapidly evolving and the rules need to be responsive to the needs of the community.  We are seeking input from all members of the global rotor sports community as we continuously refine these rules.  If you wish to participate in the WRSA rule making process, please [apply to join the working group] (http://www.dronepilotsfederation.org/join-wrsa-working-group)  
+These rules were created with the understanding that rotor sports are rapidly evolving and the rules need to be responsive to the needs of the community.  We are seeking input from all members of the global rotor sports community as we continuously refine these rules.  If you wish to participate in the WRSA rule making process, please [apply to join the WRSA work group] (http://www.dronepilotsfederation.org/join-work-group)  
 
 ### Definition of racing terms
 * DNS: Did Not Start
