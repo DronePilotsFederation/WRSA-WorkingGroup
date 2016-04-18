@@ -180,7 +180,7 @@ Once all pilots have given the Thumbs Up sign, the Flight Director will commence
 
 Three Judgement Categories: 
 * Difficulty - Were the tricks performed mostly easy or difficult? Suggested trick difficulty ratings below. Ultimately judges have discretion for rating dificulty of tricks.
-* Style/Flow - How well did each trick/move flow into the next? How did the entire routine flow together? Any Any crash should take away from this number, a score of 5 means great flow and zero unintentional collisions/crashes
+* Style/Flow - How well did each trick/move flow into the next? How did the entire routine flow together? Any crash should take away from this number, a score of 5 means great flow and zero unintentional collisions/crashes
 * Use of Course/Obstacles - How well did the pilot make use of the course layout and obstacles?
 
 Each category scored 0-5, combined scores multiplied by .667 and rounded to nearest decimal for combined score of 0-10
