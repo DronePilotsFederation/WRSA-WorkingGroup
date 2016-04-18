@@ -172,11 +172,9 @@ Once all pilots have given the Thumbs Up sign, the Flight Director will commence
 * Multirotor craft with 3, 4 or 6 motors
 * 4S maximum LiPo battery, maximum 4.2 volts per cell
 * Reversible ESCs allowed
-
 * Must fly FPV
 * All judging via FPV
 * Accompanying Music Optional
-
 * 3 Judges
 * 3 Minute Runs
 
