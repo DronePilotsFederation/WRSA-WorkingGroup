@@ -38,8 +38,8 @@ These rules were created with the understanding that rotor sports are rapidly ev
 ### Racing category general information
 #### There are three categories of competition:
 * Speed/Agility Course: Primary race track, featuring gates, flags and other obstacles
-* Invitational Freestyle Competition
-* Team Sport: Teams of two or more pilots grouped into a team are judged upon a cumulative team time. Pilots may only compete in the team competition with one team.
+* Freestyle Competition: Usually invitational, judged using criterion detailed below
+* Team Sport: Teams of two or more pilots grouped into a team are judged upon a cumulative team time or other team-based scoring criterion. Pilots may only compete in the team competition with one team.
 
 ### Judging and marshaling
 * All races will be governed by an appointed judging committee.
@@ -55,14 +55,14 @@ These rules were created with the understanding that rotor sports are rapidly ev
 
 ### Mini Multirotor Class (formerly 250 class)
 * 6 inch (152 millimeter) diameter maximum propeller size 
-* 3 inch (76.2 millimeter) radius, 3-bladed propellers allowed
+* 3-bladed and 4-bladed propellers allowed
 * Maximum frame size 330 millimeter motor to motor, no minimum size
 * Multirotor craft with 3, 4 or 6 motors
 * 4S maximum LiPo battery, maximum 4.2 volts per cell
 
 ### Micro Multirotor Class (formerly 180 class)
 * 4 inch (102 millimeter) diameter maximum propeller size 
-* 2 inch (5.1 millimeter) radius, 3-bladed propellers allowed
+* 3-bladed and 4-bladed propellers allowed
 * Maximum frame size 250 millimeter motor to motor, no minimum size
 * Multirotor craft with 3, 4 or 6 motors
 * 4S maximum LiPo battery, maximum 4.2 volts per cell
@@ -77,6 +77,7 @@ These rules were created with the understanding that rotor sports are rapidly ev
 * Rudder(s) not permitted
 * Vectored thrust not permitted
 * 4S maximum LiPo battery, maximum 4.2 volts per cell
+* Must be capable of up to 5 minute race durations
 
 ### 1000 Class
 * More specifications coming soon
@@ -152,7 +153,7 @@ Once all pilots have given the Thumbs Up sign, the Flight Director will commence
 * If a pilot loses video, they must immediately execute a fail-safe procedure and/or attempt to land the aircraft via Line of Sight. All spotters must assist pilot in determining the location of their aircraft.
 * Spotters must maintain visual line of sight of the corresponding pilot’s airframe at all times and must provide verbal directions or situational awareness details to the pilot. If the aircraft breaches the max ceiling height or goes out of bounds, a judge will indicate to the pilot the infraction and the spotter must immediately assist the pilot in maintaining control and safely landing the aircraft.
 
-### Course competition structure
+### Racing competition structure
 #### It is recommended that the competitions use the following structure, although individual events may elect to use a different structure.
 
 **Practice:** Pilots may practice at the designated practice fields before the event. All practice runs may be timed but will not count towards time trial qualifying runs.
@@ -162,6 +163,40 @@ Once all pilots have given the Thumbs Up sign, the Flight Director will commence
 **Mains:** Competitions may include one or more rounds of main heats, with best complete race time deciding advancement to semi-finals or finals.
 
 **Semi-Finals/Finals:** Pilots who advance from the mains compete in semi-final heats to advance to finals, or advance directly to finals if there is no semi-finals round.
+
+### Mini Multirotor Freestyle Rules
+
+* 6 inch (152 millimeter) diameter maximum propeller size 
+* 3-bladed and 4-bladed propellers allowed
+* Maximum frame size 330 millimeter motor to motor, no minimum size
+* Multirotor craft with 3, 4 or 6 motors
+* 4S maximum LiPo battery, maximum 4.2 volts per cell
+* Reversible ESCs allowed
+
+* Must fly FPV
+* All judging via FPV
+* Accompanying Music Optional
+
+* 3 Judges
+* 3 Minute Runs
+
+Three Judgement Categories: 
+* Difficulty - Were the tricks performed mostly easy or difficult? Suggested trick difficulty ratings below. Ultimately judges have discretion for rating dificulty of tricks.
+* Style/Flow - How well did each trick/move flow into the next? How did the entire routine flow together? Any Any crash should take away from this number, a score of 5 means great flow and zero unintentional collisions/crashes
+* Use of Course/Obstacles - How well did the pilot make use of the course layout and obstacles?
+
+Each category scored 0-5, combined scores multiplied by .667 and rounded to nearest decimal for combined score of 0-10
+
+Reversible/3d ESC Judging Guidelines:
+* Judges must take into account reversible ESCs when they are used
+* Lower difficulty score for all inverted hangtime moves
+* 3D capability needs to be well utilized to have high difficulty and style/flow scores
+
+Suggested trick difficulty ratings:
+* Easy: Flip or roll, Pass through large gap slow, Double/Triple flip or roll, Pirouette, Flip/roll combo, Intentional ground/obstacle hit/skid
+* Medium: Flip or roll with hesitation, Flip/roll combo with hesitation, Pirouette/roll combo, Flip or roll through large gap, Pirouette through large gap, Pass through small gap slow, Pass through large gap fast, Power loop, Inverted hangtime, 4+ flip or roll, Hurricane, Multiple Pirouettes, Pass through tiny gap, Alley Oop, Flip or roll through small gap, Power loop through large gap, Intentional ground/obstacle hit/skid through large gap
+* Hard: Flip or roll through tiny gap, Pirouette through tiny gap, Power loop through small or tiny gap, Inverted pirouette, Vertical pirouette, Proximity flip, Knife-edge proximity flip, Hurricane through gap, Pirouette Proximity Flip, Pirouette Roll, Knife-edge proximity roll, Inverted alley oop, Intentional ground/obstacle hit/skid w/ roll/flip/piro, Intentional ground/obstacle hit/skid through small/tiny gap
+
 
 ### Summary
 These rules and regulations are being developed through the kind assistance and counsel of many individuals, groups and leagues. It is our hope that these rule sets help guide and act as a solid case study for competitive drone racing worldwide.
