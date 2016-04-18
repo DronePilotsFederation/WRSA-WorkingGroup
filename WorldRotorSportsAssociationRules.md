@@ -38,8 +38,8 @@ These rules were created with the understanding that rotor sports are rapidly ev
 ### Racing category general information
 #### There are three categories of competition:
 * Speed/Agility Course: Primary race track, featuring gates, flags and other obstacles
-* Freestyle Competition: Usually invitational, judged using criterion detailed below
-* Team Sport: Teams of two or more pilots grouped into a team are judged upon a cumulative team time or other team-based scoring criterion. Pilots may only compete in the team competition with one team.
+* Freestyle Competition: Usually invitational, judged using criteria detailed below
+* Team Sport: Teams of two or more pilots grouped into a team are judged upon a cumulative team time or other team-based scoring criteria. Pilots may only compete in the team competition with one team.
 
 ### Judging and marshaling
 * All races will be governed by an appointed judging committee.
