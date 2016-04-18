@@ -1,5 +1,5 @@
 ![Image of WRSA-Logo](http://i.imgur.com/AwJY0C9.png)
-# World Rotor Sports Association Rules v1.4.2
+# World Rotor Sports Association Rules v1.5
 ### Introduction
 The World Rotor Sports Association (WRSA) rules are designed to establish universal standards for competitive rotor sports events.  These rules are intended to augment the general rules and regulations of amateur model aviation operation already officially established within each country.  
 
