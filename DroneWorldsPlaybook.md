@@ -7,7 +7,7 @@
 
 1.  A “Qualifier Event” is defined as a significant and nationally publicized multirotor racing event held in your country. It should have a strong or majority consensus amongst the drone racing community and recognized as your main national event. It is highly recommended that it is sanctioned by the model aviation organization in your country. 
 
-    Example: In the USA, The [Academy of Model Aeronautics](http://www.modelaircraft.org/) and [Drone Pilots Federation](http://www.dronepilotsfederation.org) are community based organizations that sanction drone racing.  These organizations provide counsel, advice, safety and operation rules & regulations, insurance, etc. In some cases, your organization may help in finding financial assistance for pilots to travel to the World Championships.
+    **Example:** In the USA, The [Academy of Model Aeronautics](http://www.modelaircraft.org/) and [Drone Pilots Federation](http://www.dronepilotsfederation.org) are community based organizations that sanction drone racing.  These organizations provide counsel, advice, safety and operation rules & regulations, insurance, etc. In some cases, your organization may help in finding financial assistance for pilots to travel to the World Championships.
 
 2.  A Qualifier Event will define that country’s best and top pilots for each World Drone Racing Championships within each category. 
 
@@ -22,7 +22,7 @@
 
 5.  Races should be open, available and accessible to all pilots in your country. If you have a large geographical area, then you should consider holding multiple races and distribute your pilot allocations.
 
-    Example: UK is holding one race in Britain (3 pilots will be defined), and one in Scotland (2 pilots will be defined) 
+    **Example:** UK is holding one race in Britain (3 pilots will be defined), and one in Scotland (2 pilots will be defined) 
 
 6.  Courses should be defined and designed by a set of standards that are considered professional and based upon other recognized racing events or leagues. For example, you can use the 2015 Drone Nationals rule sets or any League like AerialGP, MultiGP, Aerial Sports League, etc. 
 
@@ -32,7 +32,7 @@
 
 9.  Qualifying event as defined per calendar year: Any event that is held after the World Championships, up to 90 days before the proceeding event is considered to be eligible for the current World Championship. Any event that falls within 90 days before will be eligible for the next calendar year World Championships. 
 
-        a.  Example A: A country qualifier event is held two weeks after the World Championships in 2016. This event would be eligible for the 2017 event. 
-        b.  Example B: A country qualifier event is held 60 days before the 2016 Championships. Winners would be eligible for the 2017 Championships. 
+        a.  **Example A:** A country qualifier event is held two weeks after the World Championships in 2016. This event would be eligible for the 2017 event. 
+        b.  **Example B:** A country qualifier event is held 60 days before the 2016 Championships. Winners would be eligible for the 2017 Championships. 
 
 10. Competitors can compete in their own home resident country National event as well as one other national event as a non-resident. If the competitor places in both events, the competitor has 10 days after the second event in which to decide which Country he or she will represent. 
