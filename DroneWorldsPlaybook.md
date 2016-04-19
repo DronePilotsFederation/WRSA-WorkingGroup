@@ -32,7 +32,7 @@
 
 9.  Qualifying event as defined per calendar year: Any event that is held after the World Championships, up to 90 days before the proceeding event is considered to be eligible for the current World Championship. Any event that falls within 90 days before will be eligible for the next calendar year World Championships. 
 
-        a.  **Example A:** A country qualifier event is held two weeks after the World Championships in 2016. This event would be eligible for the 2017 event. 
-        b.  **Example B:** A country qualifier event is held 60 days before the 2016 Championships. Winners would be eligible for the 2017 Championships. 
+        a.  Example A: A country qualifier event is held two weeks after the World Championships in 2016. This event would be eligible for the 2017 event. 
+        b.  Example B: A country qualifier event is held 60 days before the 2016 Championships. Winners would be eligible for the 2017 Championships. 
 
 10. Competitors can compete in their own home resident country National event as well as one other national event as a non-resident. If the competitor places in both events, the competitor has 10 days after the second event in which to decide which Country he or she will represent. 
