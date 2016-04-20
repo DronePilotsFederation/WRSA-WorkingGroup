@@ -1,6 +1,6 @@
 ![Image of WDRC-Logo](http://i.imgur.com/x1thqiO.png)
 # Drone Rules Playbook v1.0
-### 2016 World Drone Racing Championships:tm: :trophy:
+### 2016 World Drone Racing Championships™ :trophy:
 #### Terms and Definitions for Hosting a National Qualifier Event in Your Country
 [droneworlds.com](http://droneworlds.com)  |  hello@RotorSports.com
 
