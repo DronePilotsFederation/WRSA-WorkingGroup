@@ -3,7 +3,7 @@
 ### 2016 World Drone Racing Championships™
 #### Terms and Definitions for Hosting a National Qualifier Event in Your Country
 [droneworlds.com](http://droneworlds.com)  |  hello@RotorSports.com
-
+/play yeah
 
 1.  A “Qualifier Event” is defined as a significant and nationally publicized multirotor racing event held in your country. It should have a strong or majority consensus amongst the drone racing community and recognized as your main national event. It is highly recommended that it is sanctioned by the model aviation organization in your country. 
 
@@ -13,10 +13,10 @@
 
 3.  Each country may officially send five (5) individual competitors and one (1) team for each Class Category, if marked as Individual and Team eligible. Team only events currently are defined as a team of up to 5 members.  Currently there are Four Classes: 
 
-  a.  250 Class multirotor (Individual, Team)
-  b.  500 Class multirotor  (Team)
-  c.  Wing Class (Individual, Team)
-  d.  Emergency Services Class (Team)
+	* 250 Class multirotor (Individual, Team)
+	* 500 Class multirotor  (Team)
+	* Wing Class (Individual, Team)
+	* Emergency Services Class (Team)
 
 4.  A qualifying competitor is defined to be a pilot with exemplary piloting and racing skills and ability to represent your Country as its finest as established by a national competitive event. Qualifying pilots: Pilots should be vetted by a method that is comparable to other national level racing events. Please refer to your local or international league for more information. 
 
@@ -32,7 +32,7 @@
 
 9.  Qualifying event as defined per calendar year: Any event that is held after the World Championships, up to 90 days before the proceeding event is considered to be eligible for the current World Championship. Any event that falls within 90 days before will be eligible for the next calendar year World Championships. 
 
-  a.  Example A: A country qualifier event is held two weeks after the World 		Championships in 2016. This event would be eligible for the 2017 event. 
-  b.  Example B: A country qualifier event is held 60 days before the 2016 Championships. Winners would be eligible for the 2017 Championships. 
+	* Example A: A country qualifier event is held two weeks after the World 		Championships in 2016. This event would be eligible for the 2017 event. 
+	* Example B: A country qualifier event is held 60 days before the 2016 		Championships. Winners would be eligible for the 2017 Championships. 
 
 10. Competitors can compete in their own home resident country National event as well as one other national event as a non-resident. If the competitor places in both events, the competitor has 10 days after the second event in which to decide which Country he or she will represent. 
