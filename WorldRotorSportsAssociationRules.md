@@ -1,5 +1,5 @@
 ![Image of WRSA-Logo](http://i.imgur.com/AwJY0C9.png)
-# World Rotor Sports Association Rules v1.5
+# World Rotor Sports Association Rules v1.51
 ### Introduction
 The World Rotor Sports Association (WRSA) rules are designed to establish universal standards for competitive rotor sports events.  These rules are intended to augment the general rules and regulations of amateur model aviation operation already officially established within each country.  
 
@@ -156,13 +156,13 @@ Once all pilots have given the Thumbs Up sign, the Flight Director will commence
 ### Racing competition structure
 #### It is recommended that the competitions use the following structure, although individual events may elect to use a different structure.
 
-**Practice:** Pilots may practice at the designated practice fields before the event. All practice runs may be timed but will not count towards time trial qualifying runs.
+**Practice:** Pilots may practice at the designated practice fields before the event. Practice runs may be timed and may be used for qualifier seeding.
 
-**Time Trials:** Competitions may include one or more rounds of time trial heats, with either seeding or advancement as a result of best single lap time or best complete race time.
+**Qualifiers:** Competitions may include one or more rounds of qualifiers, with either seeding or advancement as a result of best single lap time or best complete race time.
 
-**Mains:** Competitions may include one or more rounds of main heats, with best complete race time deciding advancement to semi-finals or finals.
+**Mains:** Competitions may include one or more rounds of main heats, with best complete race time, finishing order or a points-based system based on finishing order deciding advancement to finals.
 
-**Semi-Finals/Finals:** Pilots who advance from the mains compete in semi-final heats to advance to finals, or advance directly to finals if there is no semi-finals round.
+**Finals:** Pilots who advance from the mains compete in finals, with best complete race time, finishing order or a points-based system based on finishing order deciding final results.
 
 ### Mini Multirotor Freestyle Rules
 
