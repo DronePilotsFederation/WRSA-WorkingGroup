@@ -1,4 +1,4 @@
-# WRSA v1.51
+# WRSA v1.6
 ### Introduction
 The WRSA rules are designed to establish universal standards for competitive rotor sports events.  These rules are intended to augment the general rules and regulations of amateur model aviation operation already officially established within each country.  
 
