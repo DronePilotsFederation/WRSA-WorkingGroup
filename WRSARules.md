@@ -1,4 +1,4 @@
-# WRSA v1.6
+# WRSA v1.7
 ### Introduction
 The WRSA rules are designed to establish universal standards for competitive rotor sports events.  These rules are intended to augment the general rules and regulations of amateur model aviation operation already officially established within each country.  
 
@@ -15,14 +15,15 @@ These rules were created with the understanding that rotor sports are rapidly ev
 ### General piloting rules
 * If there is a requirement that all model aviation pilots in a host country have a current license or organizational membership to the local body governing model aeronautics then all pilots must meet that requirement in order to compete, and all pilots must adhere to the rules and regulations of safe airframe operation and flight as defined by that body.
 * All pilots must adhere to any applicable regulations by the relevant local authorities responsible for manned aircraft regulations.
-* All pilots have to attend a general safety briefing and sign the appropriate waivers from the race organizer and venue.
-* All pilots must demonstrate effective Fail-Safe procedures defined by the Safety Director. In most cases this is a “Power Down, no pulse” method, where the aircraft will immediately cease flight by stopping all motors and operation if it loses contact with the radio transmitter.
+* Unlawful flight, such as flights at locations near an event where flying is prohibited, may result in disqualification from the event.
+* All pilots must attend a general safety briefing and sign the appropriate waivers from the race organizer and venue.
+* All pilots must demonstrate effective Fail-Safe procedures defined by the Race Director. In most cases this is a “Power Down, no pulse” method, where the aircraft will immediately cease flight by stopping all motors and operation if it loses contact with the radio transmitter.
 * All pilots must have an “ARMING” position switch or sequence on their radio. The aircraft should not power up by any accidental controls from the radio. Aircraft arming may be executed by a specific switch on the radio, or by a sequence (e.g. yaw right) to actively arm the radio.
 * All pilots must demonstrate an airworthy airframe and pass a general mechanics and electronics test.
 * All batteries must be transported and stored in LiPo-safe bags or an approved fire resistant container.
 * Pilots must use FPV to pilot aircraft. This can be with goggles or a ground station, LCD type display.
-* Pilots are required to have an authorized Timing System Transponder emitter properly installed on their airframe for all official lap timing purposes.
-* Pilots must not power up video transmitters unless they have the express permission of the Race Director e.g. they are about to take part in a race.
+* In events where emitter-based timing systems are used, pilots are required to have an authorized Timing System Transponder emitter properly installed on their airframe for all official lap timing purposes.
+* Pilots must not power up video transmitters unless they have been instructed to do so, e.g. they are about to take part in a race. Powering up a video transmitter at all other times may result in disaqualification from the event.
 
 ### Venue operations
 * Pilots must adhere to all rules within the competition venue, and will not fly in any other part of the venue unless it is a designated flight zone.
@@ -41,11 +42,10 @@ These rules were created with the understanding that rotor sports are rapidly ev
 * Team Sport: Teams of two or more pilots grouped into a team are judged upon a cumulative team time or other team-based scoring criteria. Pilots may only compete in the team competition with one team.
 
 ### Judging and marshaling
-* All races will be governed by an appointed judging committee.
+* All races will be governed by an appointed team of judges.
 * All races will follow the general rules and regulations of amateur competition, including those of the AMA or the local, equivalent authority.
 * Each race will be monitored by judges, cameras, timing/lap systems and marshals to maintain fair and accurate competition.
 * In the event of a mid-air collision, pilots can resume the race if they are able to take off again without intervention, otherwise their heat is considered a DNF.
-* The Field Marshal has the executive decision.
 * Any practice or behaviour deemed unsafe, (i.e. flying above the max ceiling height) will result in an immediate disqualification.
 
 ### Airframe general guidelines
@@ -85,7 +85,7 @@ These rules were created with the understanding that rotor sports are rapidly ev
 * More specifications coming soon
 
 ### Field, course and venue operations
-#### The Field is explicitly controlled by the event’s Flight Director and the Field Marshal. Either official has the ability to disqualify any pilot for any reason, and has the ability to stop a race or flight at any time for any reason.
+#### The Field is explicitly controlled by the event’s Flight Line Director, as well as the Race Commissioner and the Race Director. Those officials have the ability to disqualify any pilot for any reason, and have the ability to stop a race or flight at any time for any reason.
 * The field and the venue are governed by the venue’s Fire, Security and Police Marshals.
 * The field is a restricted grounds and airspace and only authorized personnel are allowed on the flying grounds.
 * All flights are grounded while there are personnel actively on the field.
@@ -107,45 +107,45 @@ These rules were created with the understanding that rotor sports are rapidly ev
 * Netting must be high tensile weave, with a 1 ¾ inch (45 millimeter) max weave size (either square or diamond). This is to ensure there are multiple catch points in case one of the squares is breached by the impact.
 
 ### Course timing systems
-#### A timing system will be used to officially track the time of each pilot throughout the races. If a timing emitter/transponder is not provided on-site by the competition organisers, each pilot must own, rent or purchase a compatible timing emitter with a unique ID and properly install it on the airframe that is to be raced. A backup timing system such as manual timing with stopwatches by  judges will be used in the case of failure of the primary timing system.
+#### A timing system may be used to officially track the time of each pilot throughout the races. If a timing emitter/transponder is not provided on-site by the competition organisers, each pilot must own, rent or purchase a compatible timing emitter with a unique ID and properly install it on the airframe that is to be raced. A backup timing system such as manual timing with stopwatches by judges will be used in the case of failure of the primary timing system.
 * Each pilot is responsible for mounting the emitter in a location conducive to 100% successful triggers (e.g. don’t accidentally block it with a Velcro strap). The mounting location will be inspected during check-in for optimum placement.
 * Emitters should be mounted securely to the airframe in a location that will not easily be damaged in a crash. Typically this is on the top of the airframe.
 * Pilot is responsible for the safe powering of the emitter, and failed triggers due to improper operation, overpowering, overheating, improper mounting or failed trigger is the complete responsibility of the pilot.
-* Any failed non-triggers are the responsibility of the pilot, and any judgments for manually adding times or adjustments are at the sole discretion of the Field Marshal.
+* Any failed non-triggers are the responsibility of the pilot, but judgments for manually adding times or adjustments may be made in some cases.
 
 ### Flight deck race count-down procedures
 
-It is recommended that the competitions use a four-stage process for all racing heats, although individual events may elect to use a different process. Each stage is designed to check for the various conditions, prepare video transmitters, and have all pilots organized and ready for racing. Each stage is staffed by a specialist who will review each pilot and airframe. All heats and pilots will proceed together through each stage. Mini Class racing heats will be 7 minutes in duration. The stages for Mini Class racing heats are as follows:
+It is recommended that the competitions use a four-stage process for all racing heats, although individual events may elect to use a different process. Each stage is designed to check for the various conditions, prepare video transmitters, and have all pilots organized and ready for racing. Each stage is staffed by a specialist who will review each pilot and airframe. All heats and pilots will proceed together through each stage. The stages for Mini Class racing heats are as follows:
 
-**Stage 4** (21 minutes from flight): Pre-flight airworthiness check. All airframes will be checked for valid seals and marks from initial safety checks. If they are not present, the pilot must go through the safety check and receive a new seal or mark. At this time all cables, connectors, props and electronics will be checked by the Stage specialist.
+**Stage 4** (Three heats from Flight Deck): Pre-flight airworthiness check. All airframes will be checked for valid seals and marks from initial safety checks. If they are not present, the pilot must go through the safety check and receive a new seal or mark. At this time all cables, connectors, props and electronics will be checked by the Stage specialist.
 
-**Stage 3** (14 minutes from flight): Pilots will be assigned a race position and receive their video transmitter to attach to the airframe. All cables should be connected and the video transmitter Velcroed to the airframe. The aircraft should not be powered up at this time.
+**Stage 3** (Two heats from Flight Deck): Pilots will be assigned a race position and receive their video transmitter to attach to the airframe. All cables should be connected and the video transmitter Velcroed to the airframe. The aircraft should not be powered up at this time.
 
-**Stage 2** (7 minutes from flight): Pilots will hand over their airframe to their spotter and the spotter will take it to the start/finish area to await the next heat. Pilots may power up their goggles or displays but may not power up their radio at this time.
+**Stage 2** (Next up on Flight Deck): Pilots will hand over their airframe to their spotter and the spotter will take it to the start/finish area to await the next heat. Pilots may power up their goggles or displays but may not power up their radio at this time.
 
-**Stage 1** (On Flight Deck): Pilots will proceed to their assigned seat in the Flight Deck and power up their radios. Spotters will power up the airframes, check their video feeds. The spotter will show by the number of fingers in front of the pilot camera to confirm successful and correct video feed. The pilot must give a “Thumbs Up” to the Flight Director when they have successfully powered up and have the correct video feed. Pilots must not arm until directed by the Flight Director.
+**Stage 1** (On Flight Deck): Pilots will proceed to their assigned seat in the Flight Deck and power up their radios. Spotters will power up the airframes, check their video feeds. The spotter will show by the number of fingers in front of the pilot camera to confirm successful and correct video feed. The pilot must give a “Thumbs Up” to the Pilot Line Director when they have successfully powered up and have the correct video feed. Pilots must not arm until directed by the Pilot Line Director.
 
-Once all pilots have given the Thumbs Up sign, the Flight Director will commence the race start countdown. It will proceed as follows:
+Once all pilots have given the Thumbs Up sign, the race start countdown will commence. It will proceed as follows:
 
 1. Pilots, arm your aircraft
 2. Pilots at the ready
 3. Count down 3, 2, 1, airhorn blast
 4. Airhorn short blast will signal commencement of the race
-* At the discretion of the Flight Director or Field Marshal, the race may be stopped at any time. If this occurs, pilots will be instructed by the Flight Director and must follow any procedures prescribed
+* If a race is ordered stopped for any reason, pilots will be instructed by the Pilot Line Director and must follow any procedures prescribed
 
 ### Course rules of engagement
 * Pilots must stay within all prescribed flight paths.
-* Pilots must keep all aircraft in the disarmed state until they have been given the “ARM” signal from the Flight Director. This will happen only when the aircraft has been placed on the starting deck and all field staff have left the area.
-* Pilots must adhere to the prescribed launch sequence. No movement before the starting signal. False starts will incur a penalty at the discretion of the Field Marshal or Flight Director.
-* Pilots must maintain control of their aircraft at all times and only fly within their skill level. Any pilot who exhibits unsafe flying procedures may be disqualified at any time at the discretion of the Field Marshal or Flight Director.
-* Once pilots have successfully completed all laps, they must return to the start/finish pad, land and DISARM. Pilots must give the Flight Director a “Thumbs Up” that they have completed their flight.
-* Pilots that have crashed at any point during the heat and are unable to resume racing must DISARM their aircraft, give the Flight Director a “Thumbs Down” indication and wait until the heat is over. The airframe will be recovered by the field crew.
-* Pilots must successfully fly through all gates, flags, and other obstacles on the course. If a pilot misses an obstacle, they must safely turn around and attempt the obstacle again. They will have up to two further attempts before being disqualified from the heat. Judges will ride along via FPV with the pilot, and will indicate immediately to the pilot if they must correct any flight path errors. Additionally, the Field Marshal and field observer judges may signal to the Flight Director that an obstacle has been missed. In this case the pilot must immediately and safely return to the missed obstacle and attempt to successfully navigate it.
-* The default Maximum Ceiling height for these events is 40 feet (12 meters) unless otherwise specified. Any breach of the ceiling will result in immediate disqualification from that heat. If the pilot receives two breaches of the ceiling height or goes out of bounds at any time during the event, the pilot will be completely disqualified from the event. If a pilot has breached the ceiling or has gone out of bounds, the pilot must immediately land their aircraft in a safe location on the field. The FPV Judge, Field Marshal or Flight Director will give further instructions.
+* Pilots must keep all aircraft in the disarmed state until they have been given the “ARM” signal from the Pilot Line Director. This will happen only when the aircraft has been placed on the starting deck and all field staff have left the area.
+* Pilots must adhere to the prescribed launch sequence. No movement before the starting signal. False starts will incur a penalty.
+* Pilots must maintain control of their aircraft at all times and only fly within their skill level. Any pilot who exhibits unsafe flying procedures may be disqualified at any time.
+* Once pilots have successfully completed all laps, they must return to the start/finish pad, land and DISARM. Pilots must give the Pilot Line Director a “Thumbs Up” that they have completed their flight.
+* Pilots that have crashed at any point during the heat and are unable to resume racing must DISARM their aircraft, give the Pilot Line Director a “Thumbs Down” indication and wait until the heat is over. The airframe will be recovered by the field crew.
+* Pilots must successfully fly through all gates, flags, and other obstacles on the course. If a pilot misses an obstacle, they must safely turn around and attempt the obstacle again. They will have up to two further attempts before being disqualified from the heat. Judges will ride along via FPV with the pilot, and will indicate immediately to the pilot if they must correct any flight path errors. Additionally, the Flight Line Director may signal to the Pilot Line Director and judges that an obstacle has been missed. In this case the pilot must immediately and safely return to the missed obstacle and attempt to successfully navigate it.
+* The default Maximum Ceiling height for these events is 40 feet (12 meters) unless otherwise specified. Any breach of the ceiling will result in immediate disqualification from that heat. If the pilot receives two breaches of the ceiling height or goes out of bounds at any time during the event, the pilot will be completely disqualified from the event. If a pilot has breached the ceiling or has gone out of bounds, the pilot must immediately land their aircraft in a safe location on the field. The Pilot Line Director or a judge will give further instructions.
 * In the event of a crash or the inability to resume flight safely, the pilot must immediately DISARM their aircraft and give the Thumbs Down signal.
 * The field staff may use various hand signals in the front of the pilot’s camera to indicate airworthiness status to the pilot. Thumbs Up means the pilot is pre-cleared for flight. Thumbs Down means the craft is damaged and is not able to fly. In all cases if you see field staff in the First Person View pilot camera, you must disarm and wait for further instructions.
 * Pilots may have multiple airframes, and each airframe must pass all safety and airworthiness checks before flying.
-* The Field Marshal has the right to disqualify any pilot for any reason if the pilot or piloting behavior is deemed unsafe or if the pilot has breached any rule or regulation within this document.
+* The Flight Line Director, Race Director or Race Commissioner has the right to disqualify any pilot for any reason if the pilot or piloting behavior is deemed unsafe or if the pilot has breached any rule or regulation within this document.
 
 ### Emergency or Fail-Safe Procedures
 * Should a pilot lose control of their aircraft, the pilot must attempt a safe landing, fly into a prescribed, crash, ‘catch’ zone net, cut throttle in a safe area or execute a fail-safe procedure in a safe area.
@@ -175,14 +175,14 @@ Once all pilots have given the Thumbs Up sign, the Flight Director will commence
 * All judging via FPV
 * Accompanying Music Optional
 * 3 Judges
-* 3 Minute Runs
+* 2 Minute Runs
 
 Three Judgement Categories: 
 * Difficulty - Were the tricks performed mostly easy or difficult? Suggested trick difficulty ratings below. Ultimately judges have discretion for rating dificulty of tricks.
 * Style/Flow - How well did each trick/move flow into the next? How did the entire routine flow together? Any crash should take away from this number, a score of 5 means great flow and zero unintentional collisions/crashes
 * Use of Course/Obstacles - How well did the pilot make use of the course layout and obstacles?
 
-Each category scored 0-5, combined scores multiplied by .667 and rounded to nearest decimal for combined score of 0-10
+Each category scored 0-5 for a total of 15 maximum points per judge, 45 maximum points for all three judges
 
 Reversible/3d ESC Judging Guidelines:
 * Judges must take into account reversible ESCs when they are used
