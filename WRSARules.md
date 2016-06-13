@@ -15,7 +15,7 @@ These rules were created with the understanding that rotor sports are rapidly ev
 ### General piloting rules
 * If there is a requirement that all model aviation pilots in a host country have a current license or organizational membership to the local body governing model aeronautics then all pilots must meet that requirement in order to compete, and all pilots must adhere to the rules and regulations of safe airframe operation and flight as defined by that body.
 * All pilots must adhere to any applicable regulations by the relevant local authorities responsible for manned aircraft regulations.
-* Unlawful flight, such as flights at locations near an event where flying is prohibited, may result in disqualification from the event.
+* Unlawful flight, such as flights near an event at locations where flying is prohibited, will likely result in disqualification from the event.
 * All pilots must attend a general safety briefing and sign the appropriate waivers from the race organizer and venue.
 * All pilots must demonstrate effective Fail-Safe procedures defined by the Race Director. In most cases this is a “Power Down, no pulse” method, where the aircraft will immediately cease flight by stopping all motors and operation if it loses contact with the radio transmitter.
 * All pilots must have an “ARMING” position switch or sequence on their radio. The aircraft should not power up by any accidental controls from the radio. Aircraft arming may be executed by a specific switch on the radio, or by a sequence (e.g. yaw right) to actively arm the radio.
